@@ -1,3 +1,4 @@
-## Hello, Git!
+## Heyoo EveryOne welcome to my git guide
 
-- I'm an edited from 'branch-name' branch
+- I'm coming from `dev-hamza` branch
+- I'm edited from `branch-name` branch
